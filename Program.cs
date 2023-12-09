@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace ChangeTitle
+namespace ChangeTiles
 {
     //Calculating bench size and tile size.
     class CalculateArea
