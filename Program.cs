@@ -67,7 +67,7 @@ namespace ChangeTitle
             Console.WriteLine(neededTime + " minutes");
         
             /*For actual time it should be: neededTime / 0.6 for the minutes
-              and neededTime % 0.6 for seconds */
+              and neededTime % 0.6 for seconds */ 
         }
     }
 }
