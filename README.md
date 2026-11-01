@@ -1,2 +1,2 @@
 # ChangeTiles
-#Solution for Softuni "Change Tiles" exercise.
++ Solution for Softuni "Change Tiles" exercise.
